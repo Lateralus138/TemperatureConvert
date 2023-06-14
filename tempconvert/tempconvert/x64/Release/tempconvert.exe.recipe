@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\flux\source\github\TemperatureConvert\tempconvert\x64\Release\tempconvert.exe</FullPath>
+      <FullPath>C:\Users\flux\source\repos\tempconvert\x64\Release\tempconvert.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
